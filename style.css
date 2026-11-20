@@ -132,3 +132,5 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
   @view-transition { navigation: none; }
   main { animation: none; }
 }
+
+.wordmark { height: 1.15em; width: auto; vertical-align: -0.18em; margin-left: 0.05em; }
